@@ -1,6 +1,6 @@
 # Hey there, I'm Cristina! 👋
 
-I'm a linguist-turned-computational-linguist currently doing my M.Sc. in **Computational Linguistics** at the **University of Stuttgart** 🇩🇪, at the [Institute for Natural Language Processing (IMS)](https://www.ims.uni-stuttgart.de/en/) — one of Europe's leading NLP research groups.
+I'm a linguist-turned-computational-linguist currently doing my M.Sc. in **Computational Linguistics** at the **University of Stuttgart**, at the [Institute for Natural Language Processing (IMS)](https://www.ims.uni-stuttgart.de/en/) ; one of Europe's leading NLP research groups.
 
 I grew up in **Córdoba, Spain**, studied Linguistics, and somewhere along the way got completely fascinated by how machines process and understand human speech and language. So here I am, learning to build the things I used to just theorize about.
 
