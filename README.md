@@ -13,7 +13,7 @@ about_me = {
     "code":        ["Python", "R (learning)"],
     "libraries":   ["PyTorch", "NumPy"],
     "focus":       ["Speech Processing", "Data Processing", "LLMs", "NLP"],
-    "languages":   ["Spanish 🇪🇸", "English 🇬🇧", "French 🇫🇷", "Italian 🇮🇹", "German 🇩🇪"],
+    "languages":   ["Spanish", "English", "French", "Italian", "German"],
     "tools":       ["Gemini Enterprise", "ChatGPT", "Git"],
     "looking_for": ["Research collaborations", "Industry roles in speech/NLP", "Cool projects!"]
 }
