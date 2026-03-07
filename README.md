@@ -34,7 +34,7 @@ The program sits at the crossroads of linguistics and CS, with a strong emphasis
 
 ## 🔬 What gets me excited
 
-I'm especially interested in **speech and data processing** — how large language models encode and generate language, how they handle spoken input, and what all of this reveals about the nature of language itself. I'm drawn to work that bridges rigorous linguistic analysis with modern ML techniques, whether that's in an academic lab or an industry R&D team.
+I'm especially interested in **speech and data processing**: how large language models encode and generate language, how they handle spoken input, and what all of this reveals about the nature of language itself. I'm drawn to work that bridges rigorous linguistic analysis with modern ML techniques, whether that's in an academic lab or an industry R&D team.
 
 If you're working on something at the intersection of **speech technology, NLP, or LLMs** — let's talk!
 
