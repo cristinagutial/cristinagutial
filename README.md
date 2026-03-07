@@ -68,11 +68,3 @@ Can machine translation ever fully replace a human translator? This dissertation
 Five languages, two countries, one obsession: language in all its forms. I bring a linguist's instinct for nuance and a programmer's love of problem-solving to everything I work on. Still early in my journey, but learning fast and genuinely loving every bit of it.
 
 📫 **Always happy to connect** whether you're a researcher, recruiter, or fellow language nerd!
-
----
-
-## 🌍 A little more about me
-
-Five languages, two countries, one obsession: language in all its forms. I bring a linguist's instinct for nuance and a programmer's love of problem-solving to everything I work on. Still early in my journey, but learning fast and genuinely loving every bit of it.
-
-📫 **Always happy to connect**, whether you're a researcher, recruiter, or fellow language nerd!
