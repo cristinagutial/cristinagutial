@@ -13,7 +13,7 @@ about_me = {
     "code":        ["Python", "R (learning)"],
     "libraries":   ["PyTorch", "NumPy"],
     "focus":       ["Speech Processing", "Data Processing", "LLMs", "NLP"],
-    "languages":   ["Spanish", "English", "French", "Italian", "German"],
+    "languages":   ["Spanish 🇪🇸", "English 🇬🇧", "French 🇫🇷", "Italian 🇮🇹", "German 🇩🇪"],
     "tools":       ["Gemini Enterprise", "ChatGPT", "Git"],
     "looking_for": ["Research collaborations", "Industry roles in speech/NLP", "Cool projects!"]
 }
@@ -34,23 +34,45 @@ The program sits at the crossroads of linguistics and CS, with a strong emphasis
 
 ## 🔬 What gets me excited
 
-I'm especially interested in **speech and data processing** and how large language models encode and generate language, how they handle spoken input, and what all of this reveals about the nature of language itself. I'm drawn to work that bridges rigorous linguistic analysis with modern ML techniques, whether that's in an academic lab or an industry R&D team.
+I'm especially interested in **speech and data processing** — how large language models encode and generate language, how they handle spoken input, and what all of this reveals about the nature of language itself. I'm drawn to work that bridges rigorous linguistic analysis with modern ML techniques, whether that's in an academic lab or an industry R&D team.
 
-If you're working on something at the intersection of **speech technology, NLP, or LLMs**, let's talk!
+If you're working on something at the intersection of **speech technology, NLP, or LLMs** — let's talk!
 
 ---
 
 ## 📂 Projects
 
 ### 🧪 [linguistic-probe](https://github.com/cristinagutial/linguistic-probe)
-A cross-lingual probing study of `bert-base-multilingual-cased` (mBERT) on **Negative Polarity Item (NPI) licensing** in English and Spanish. NPIs like *any*, *ever*, *nadie*, *jamás* are only grammatical in specific contexts (negation, questions, conditionals). This project tests whether mBERT has learned to respect those constraints, and whether its sensitivity differs across languages. Uses minimal pair scoring with iterative masked token probability.
+A cross-lingual probing study of `bert-base-multilingual-cased` (mBERT) on **Negative Polarity Item (NPI) licensing** in English and Spanish. NPIs like *any*, *ever*, *nadie*, *jamás* are only grammatical in specific contexts (negation, questions, conditionals) — this project tests whether mBERT has learned to respect those constraints, and whether its sensitivity differs across languages. Uses minimal pair scoring with iterative masked token probability.
 
 `Python` `PyTorch` `Transformers` `Linguistics` `NLP`
 
 ---
 
+## 📝 Research & Publications
+
+### 📖 [Published] German Society During WW2 — University of Cambridge
+A historical linguistics study examining German society during World War II through the lens of East and West German magazines. Published through the University of Cambridge's German Society.
+
+`Historical Linguistics` `German Studies` `Discourse Analysis`
+
+### 🔄 [In Progress] *Error 404: Precision Not Found!* — A Statistical Analysis of Machine Translation Errors
+Can machine translation ever fully replace a human translator? This dissertation investigates the accuracy and correctness of AI translation tools (Google Translate, DeepL, ChatGPT) across technical, literary, and legal texts, comparing their output against established translation standards. It maps recurring error patterns terminological misuse, style inconsistency, cultural mistranslation — and makes the case for MT as a powerful *assistive* tool that still needs a human in the loop.
+
+`Machine Translation` `NLP` `Statistics` `Translation Studies` `Computational Linguistics`
+
+---
+
 ## 🌍 A little more about me
 
-Five languages, two countries, one obsession: language in all its forms. I bring a linguist's instinct for nuance and a programmer's love of problem-solving to everything I work on. Still early in my journey, but learning fast and genuinely loving every bit of it. ✨
+Five languages, two countries, one obsession: language in all its forms. I bring a linguist's instinct for nuance and a programmer's love of problem-solving to everything I work on. Still early in my journey, but learning fast and genuinely loving every bit of it.
+
+📫 **Always happy to connect** whether you're a researcher, recruiter, or fellow language nerd!
+
+---
+
+## 🌍 A little more about me
+
+Five languages, two countries, one obsession: language in all its forms. I bring a linguist's instinct for nuance and a programmer's love of problem-solving to everything I work on. Still early in my journey, but learning fast and genuinely loving every bit of it.
 
 📫 **Always happy to connect**, whether you're a researcher, recruiter, or fellow language nerd!
