@@ -43,7 +43,7 @@ If you're working on something at the intersection of **speech technology, NLP, 
 ## 📂 Projects
 
 ### 🧪 [linguistic-probe](https://github.com/cristinagutial/linguistic-probe)
-A cross-lingual probing study of `bert-base-multilingual-cased` (mBERT) on **Negative Polarity Item (NPI) licensing** in English and Spanish. NPIs like *any*, *ever*, *nadie*, *jamás* are only grammatical in specific contexts (negation, questions, conditionals) — this project tests whether mBERT has learned to respect those constraints, and whether its sensitivity differs across languages. Uses minimal pair scoring with iterative masked token probability.
+A cross-lingual probing study of `bert-base-multilingual-cased` (mBERT) on **Negative Polarity Item (NPI) licensing** in English and Spanish. NPIs like *any*, *ever*, *nadie*, *jamás* are only grammatical in specific contexts (negation, questions, conditionals). This project tests whether mBERT has learned to respect those constraints, and whether its sensitivity differs across languages. Uses minimal pair scoring with iterative masked token probability.
 
 `Python` `PyTorch` `Transformers` `Linguistics` `NLP`
 
