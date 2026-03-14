@@ -25,7 +25,7 @@ I taught myself Python, PyTorch, and NumPy, and I've been leveling up through th
 
 ## 🎓 My background
 
-🏛️ **B.A. in Linguistics** —> Universidad de Córdoba, Spain
+🏛️ **B.A. in Translation and Interpreting** —> Universidad de Córdoba, Spain
 
 🤖 **M.Sc. Computational Linguistics** —> University of Stuttgart *(1st year, in progress)*
 The program sits at the crossroads of linguistics and CS, with a strong emphasis on research, teamwork, and hands-on lab work. I'm focusing on **speech processing** and **data-driven approaches to language in LLMs and AI**.
